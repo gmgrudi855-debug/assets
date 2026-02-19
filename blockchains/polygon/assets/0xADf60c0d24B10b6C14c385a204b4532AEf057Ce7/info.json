@@ -1,0 +1,11 @@
+{
+  "name": "BRENFT",
+  "website": "https://imageos.net/miner/forex/",
+  "description": "BRENFT is a mineable token inspired by Bitcoin.",
+  "explorer": "https://polygonscan.com/token/0xADf60c0d24B10b6C14c385a204b4532AEf057Ce7",
+  "type": "ERC20",
+  "symbol": "BRENFT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xADf60c0d24B10b6C14c385a204b4532AEf057Ce7"
+}
